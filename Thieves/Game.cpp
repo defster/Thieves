@@ -2,6 +2,8 @@
 #define WIN32_LEAN_AND_MEAN
 #pragma comment(linker, "/subsystem:\"windows\" /entry:\"mainCRTStartup\"") 
 
+// Added to git
+
 #include <iostream>
 #include <stdio.h>
 #include <SDL.h>
